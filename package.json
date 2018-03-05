@@ -1,0 +1,19 @@
+{
+  "name": "arrrgs",
+  "version": "1.0.0",
+  "description": "For those times you want args to just be a global map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arupex/arrrgs.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/arupex/arrrgs/issues"
+  },
+  "homepage": "https://github.com/arupex/arrrgs#readme"
+}
